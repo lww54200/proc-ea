@@ -1,1 +1,6 @@
-# proc-ea
+
+
+### Installation
+```
+npm install
+```

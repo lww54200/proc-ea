@@ -1,0 +1,15 @@
+{
+  "name": "proc-ea",
+  "version": "1.0.0",
+  "description": "A reack hooks, Provide the function of setInterval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lww5420",
+  "license": "ISC",
+  "dependencies": {
+    "tslib": "^2.6.2"
+  },
+  "devDependencies": {}
+}
